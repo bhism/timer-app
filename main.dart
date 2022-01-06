@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "counter app",
+      title: "Timer app",
       home: Home(),
       debugShowCheckedModeBanner: false,
     );
